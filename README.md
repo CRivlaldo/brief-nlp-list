@@ -15,9 +15,9 @@ An idea of this list is to have a minimal set of resources dedicated to Natural 
 
 If for you as for me Twitter is a great hub of tech news you may follow these users
 
-- [TensorFlow](https://twitter.com/TensorFlow) – TensorFlow is a fast, flexible, and scalable open-source machine learning library for research and production
+- [TensorFlow](https://twitter.com/TensorFlow) – Flexible, and scalable open-source machine learning library for research and production
 - [nltk.org](https://twitter.com/NLTK_org) – Leading platform for building Python programs to work with human language data
-- [Stanford NLP Group](https://twitter.com/stanfordnlp)
+- [Stanford NLP Group](https://twitter.com/stanfordnlp) – Computational Linguistics, Natural Language, Machine Learning, Deep Learning
 - [Richard Socher](https://twitter.com/RichardSocher) – Chief scientist at Salesforce
 - [Dan Jurafsky](https://twitter.com/jurafsky) – Professor and chair of linguistics and professor of computer science at Stanford
 - [Christopher Manning](https://twitter.com/chrmanning) – Professor of CS & Linguistics at Stanford
