@@ -13,7 +13,7 @@ An idea of this list is to have a minimal set of resources dedicated to Natural 
 
 ## Twitter
 
-If you use Twitter a a great hub of tech news you may follow these users
+If you use Twitter as a great hub of tech news you may follow these users
 
 - [TensorFlow](https://twitter.com/TensorFlow) – Flexible, and scalable open-source machine learning library for research and production
 - [nltk.org](https://twitter.com/NLTK_org) – Leading platform for building Python programs to work with human language data
