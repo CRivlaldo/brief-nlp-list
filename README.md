@@ -7,17 +7,24 @@ An idea of this list is to have a minimal set of resources dedicated to Natural 
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) – The popularly acclaimed bible for traditional NLP
 - [Natural Language Processing with Python](http://www.nltk.org/book/) – More practical book
 
+
+## Videos
+- [Deep Learning for Natural Language Processing](https://www.oreilly.com/library/view/deep-learning-for/9780134851921/) – Introduction to processing natural language with Deep Learning (it's possible to use 10 days free trial to watch these videos)
+
 ## Twitter
 
 If for you as for me Twitter is a great hub of tech news you may follow these users
 
-- [nltk.org](https://twitter.com/NLTK_org) – A leading platform for building Python programs to work with human language data
+- [TensorFlow](https://twitter.com/TensorFlow) – TensorFlow is a fast, flexible, and scalable open-source machine learning library for research and production
+- [nltk.org](https://twitter.com/NLTK_org) – Leading platform for building Python programs to work with human language data
 - [Stanford NLP Group](https://twitter.com/stanfordnlp)
 - [Richard Socher](https://twitter.com/RichardSocher) – Chief scientist at Salesforce
 - [Dan Jurafsky](https://twitter.com/jurafsky) – Professor and chair of linguistics and professor of computer science at Stanford
+- [Christopher Manning](https://twitter.com/chrmanning) – Professor of CS & Linguistics at Stanford
 - [Steven Bird](https://twitter.com/StevenBird) – Associate Professor in the Department of Computer Science and Software Engineering at the University of Melbourne, and Senior Research Associate in the Linguistic Data Consortium at the University of Pennsylvania
 - [Ewan Klein](https://twitter.com/ewanhklein) – Professor of Language Technology in the School of Informatics at the University of Edinburgh
 - [Russ Salakhutdinov](https://twitter.com/rsalakhu) – Professor at Carnegie Mellon University, Director of AI Research at Apple
+- [Misha Denil](https://twitter.com/notmisha) – Research Scientist at DeepMind
 
 ## References
 
