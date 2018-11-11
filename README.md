@@ -1,6 +1,6 @@
 # brief-nlp-list
 
-An idea of this list is to have a minimal set of resources dedicated to Natural Language Processing must have to study. Several links for further studying are provided in the end of this page. 
+An idea of this list is to have a short set of resources dedicated to Natural Language Processing. Furthermore, this list contains many Twitter users must have to follow for NLP fans. Several links for further studying are provided at the end of this page.
 
 ## Books
 
