@@ -17,6 +17,7 @@ An idea of this list is to have a minimal set of resources dedicated to Natural 
 If you use Twitter as a great hub of tech news you may follow these users
 
 - [Google AI](https://twitter.com/GoogleAI) – Brings the benefits of AI to everyone
+- [OpenAI](https://twitter.com/OpenAI) – Non-profit AI research company
 - [TensorFlow](https://twitter.com/TensorFlow) – Flexible, and scalable open-source machine learning library for research and production
 - [nltk.org](https://twitter.com/NLTK_org) – Leading platform for building Python programs to work with human language data
 - [Stanford NLP Group](https://twitter.com/stanfordnlp) – Computational Linguistics, Natural Language, Machine Learning, Deep Learning
@@ -29,6 +30,7 @@ If you use Twitter as a great hub of tech news you may follow these users
 - [Misha Denil](https://twitter.com/notmisha) – Research Scientist at DeepMind
 - [Nando de Freitas](https://twitter.com/NandoDF) – Professor of Computer Science at the University of Oxford
 - [Oriol Vinyals](https://twitter.com/OriolVinyalsML) – Research Scientist at Google DeepMind
+- [Denny Britz](https://twitter.com/dennybritz) – Ex-Google Brain
 
 ## References
 
