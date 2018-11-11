@@ -10,6 +10,7 @@ An idea of this list is to have a minimal set of resources dedicated to Natural 
 
 ## Videos
 - [Deep Learning for Natural Language Processing](https://www.oreilly.com/library/view/deep-learning-for/9780134851921/) – Introduction to processing natural language with Deep Learning (it's possible to use 10 days free trial to watch these videos)
+- [Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja) – Stanford video lectures of course CS224n
 
 ## Twitter
 
