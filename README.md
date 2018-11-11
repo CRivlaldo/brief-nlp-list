@@ -1,6 +1,6 @@
 # brief-nlp-list
 
-An idea of this list is to have a minimal set of resources dedicated to Natural Language Processing must have to study. And to provide several links for further studying. 
+An idea of this list is to have a minimal set of resources dedicated to Natural Language Processing must have to study. Several links for further studying are provided in the end of this page. 
 
 ## Books
 
